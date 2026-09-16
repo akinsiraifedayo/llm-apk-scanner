@@ -1,0 +1,628 @@
+{
+  "generated": "2026-09-16",
+  "sources": {
+    "jsonl_rows_raw": 1533,
+    "jsonl_rows_unique": 1495,
+    "jsonl_duplicate_rows": 38,
+    "ledger_scanned": 1495,
+    "detail_files_for_llm_apps": 111,
+    "severity_agrees": true
+  },
+  "frame": {
+    "index_rows": 27589444,
+    "candidate_rows": 68419,
+    "unique_applications": 16364,
+    "dated_by": {
+      "vt_scan_date": 12932,
+      "dex_date": 3071,
+      "none": 361
+    },
+    "eligible": 6333,
+    "eligible_dated_by": {
+      "vt_scan_date": 6161,
+      "dex_date": 172
+    }
+  },
+  "corpus": {
+    "total_sampled": 1500,
+    "scanned": 1495,
+    "download_failed": 5,
+    "download_failure_rate": 0.0033,
+    "llm_integrated": 111,
+    "non_llm": 1384,
+    "llm_rate": 0.0742
+  },
+  "by_stratum": {
+    "2024_google_play": 195,
+    "2024_other": 5,
+    "2025_google_play": 894,
+    "2025_other": 36,
+    "2026_google_play": 284,
+    "2026_other": 81
+  },
+  "integration_by_year": {
+    "2024": {
+      "scanned": 200,
+      "apps": 15,
+      "rate": 0.075,
+      "wilson_lo": 0.046,
+      "wilson_hi": 0.12,
+      "ci_width": 0.0741
+    },
+    "2025": {
+      "scanned": 930,
+      "apps": 61,
+      "rate": 0.0656,
+      "wilson_lo": 0.0514,
+      "wilson_hi": 0.0834,
+      "ci_width": 0.032
+    },
+    "2026": {
+      "scanned": 365,
+      "apps": 35,
+      "rate": 0.0959,
+      "wilson_lo": 0.0698,
+      "wilson_hi": 0.1304,
+      "ci_width": 0.0607
+    }
+  },
+  "findings": {
+    "total": 492,
+    "per_app_mean": 4.43,
+    "by_kind": {
+      "llm_endpoint": 181,
+      "secret": 169,
+      "system_prompt": 90,
+      "llm_sdk_reference": 26,
+      "rag_artefact": 4,
+      "tool_schema": 22
+    },
+    "apps_by_kind": {
+      "llm_endpoint": 110,
+      "secret": 87,
+      "system_prompt": 24,
+      "llm_sdk_reference": 25,
+      "rag_artefact": 2,
+      "tool_schema": 1
+    },
+    "by_severity": {
+      "info": 211,
+      "medium": 194,
+      "critical": 19,
+      "high": 46,
+      "low": 22
+    },
+    "by_confidence_tier": {
+      "high": 317,
+      "low": 125,
+      "medium": 50
+    },
+    "by_top_level_container": {
+      "classes.dex": 118,
+      "resources.arsc": 101,
+      "assets": 61,
+      "classes2.dex": 51,
+      "classes3.dex": 30,
+      "lib": 26,
+      "software": 26,
+      "classes4.dex": 24,
+      "solidity": 22,
+      "classes5.dex": 21,
+      "res": 5,
+      "classes8.dex": 2,
+      "classes10.dex": 2,
+      "classes6.dex": 2,
+      "AndroidManifest.xml": 1
+    }
+  },
+  "prevalence": {
+    "denominator": 111,
+    "inference_credential": {
+      "apps": 39,
+      "rate": 0.3514,
+      "wilson_lo": 0.2689,
+      "wilson_hi": 0.4438,
+      "ci_width": 0.1749
+    },
+    "other_secret": {
+      "apps": 67,
+      "rate": 0.6036,
+      "wilson_lo": 0.5106,
+      "wilson_hi": 0.6897,
+      "ci_width": 0.1791
+    },
+    "system_prompt": {
+      "apps": 16,
+      "rate": 0.1441,
+      "wilson_lo": 0.0907,
+      "wilson_hi": 0.2214,
+      "ci_width": 0.1307
+    },
+    "preset_only": {
+      "apps": 1,
+      "rate": 0.009,
+      "wilson_lo": 0.0016,
+      "wilson_hi": 0.0493,
+      "ci_width": 0.0477
+    },
+    "tool_schema": {
+      "apps": 1,
+      "rate": 0.009,
+      "wilson_lo": 0.0016,
+      "wilson_hi": 0.0493,
+      "ci_width": 0.0477
+    },
+    "rag_artefact": {
+      "apps": 2,
+      "rate": 0.018,
+      "wilson_lo": 0.005,
+      "wilson_hi": 0.0633,
+      "ci_width": 0.0584
+    },
+    "llm_endpoint": {
+      "apps": 110,
+      "rate": 0.991,
+      "wilson_lo": 0.9507,
+      "wilson_hi": 0.9984,
+      "ci_width": 0.0477
+    },
+    "any_rq1_artefact": {
+      "apps": 50,
+      "rate": 0.4505,
+      "wilson_lo": 0.3611,
+      "wilson_hi": 0.5431,
+      "ci_width": 0.182
+    },
+    "no_rq1_artefact_server_proxied": {
+      "apps": 61,
+      "rate": 0.5495,
+      "wilson_lo": 0.4569,
+      "wilson_hi": 0.6389,
+      "ci_width": 0.182
+    },
+    "finding_outside_dex": {
+      "apps": 93,
+      "rate": 0.8378,
+      "wilson_lo": 0.7582,
+      "wilson_hi": 0.8949,
+      "ci_width": 0.1367
+    }
+  },
+  "sensitivity": {
+    "rejected_with_provider_credential": 27,
+    "aws_identifier_only": 4,
+    "unambiguous_credential": 23,
+    "denominator": 134,
+    "integration": {
+      "apps": 134,
+      "rate": 0.0896,
+      "wilson_lo": 0.0762,
+      "wilson_hi": 0.1052,
+      "ci_width": 0.029
+    },
+    "inference_credential": {
+      "apps": 62,
+      "rate": 0.4627,
+      "wilson_lo": 0.3805,
+      "wilson_hi": 0.547,
+      "ci_width": 0.1665
+    },
+    "any_rq1_artefact": {
+      "apps": 73,
+      "rate": 0.5448,
+      "wilson_lo": 0.4604,
+      "wilson_hi": 0.6267,
+      "ci_width": 0.1663
+    }
+  },
+  "provider_distribution": {
+    "openai": {
+      "apps": 67,
+      "share": 0.6036
+    },
+    "google_gemini": {
+      "apps": 27,
+      "share": 0.2432
+    },
+    "baidu": {
+      "apps": 8,
+      "share": 0.0721
+    },
+    "ollama": {
+      "apps": 6,
+      "share": 0.0541
+    },
+    "deepseek": {
+      "apps": 6,
+      "share": 0.0541
+    },
+    "iflytek": {
+      "apps": 4,
+      "share": 0.036
+    },
+    "xai": {
+      "apps": 4,
+      "share": 0.036
+    },
+    "openrouter": {
+      "apps": 4,
+      "share": 0.036
+    },
+    "minimax": {
+      "apps": 3,
+      "share": 0.027
+    },
+    "huggingface": {
+      "apps": 3,
+      "share": 0.027
+    },
+    "together": {
+      "apps": 3,
+      "share": 0.027
+    },
+    "groq": {
+      "apps": 3,
+      "share": 0.027
+    },
+    "replicate": {
+      "apps": 2,
+      "share": 0.018
+    },
+    "mistral": {
+      "apps": 2,
+      "share": 0.018
+    },
+    "perplexity": {
+      "apps": 2,
+      "share": 0.018
+    },
+    "alibaba": {
+      "apps": 2,
+      "share": 0.018
+    },
+    "bytedance": {
+      "apps": 2,
+      "share": 0.018
+    },
+    "azure_openai": {
+      "apps": 2,
+      "share": 0.018
+    },
+    "anthropic": {
+      "apps": 1,
+      "share": 0.009
+    },
+    "cohere": {
+      "apps": 1,
+      "share": 0.009
+    },
+    "fireworks": {
+      "apps": 1,
+      "share": 0.009
+    },
+    "moonshot": {
+      "apps": 1,
+      "share": 0.009
+    },
+    "zhipu": {
+      "apps": 1,
+      "share": 0.009
+    },
+    "zeroone": {
+      "apps": 1,
+      "share": 0.009
+    },
+    "aws_bedrock": {
+      "apps": 1,
+      "share": 0.009
+    }
+  },
+  "store_breakdown": {
+    "google_play_llm": 92,
+    "other_llm": 19
+  },
+  "prompt_classification": {
+    "apps_with_prompt_finding": 24,
+    "apps_with_system_prompt": 16,
+    "apps_with_preset_only": 1,
+    "apps_with_confidentiality_marker": 0,
+    "apps_with_role_binding": 0,
+    "apps_with_white_labelling": 0
+  },
+  "co_occurrence": {
+    "credential_and_system_prompt": 7,
+    "share_of_credential_apps": 0.1795
+  },
+  "adversarial_audit": {
+    "applications_audited": 1233,
+    "llm_integrated_audited": 111,
+    "agreements": 521,
+    "scanner_found_audit_weak": 695,
+    "scanner_empty_audit_signal": 17
+  },
+  "liveness": {
+    "run_mode": "live",
+    "total_credentials": 24,
+    "live": 6,
+    "revoked": 14,
+    "unknown": 4,
+    "live_rate": 0.3,
+    "by_provider": {
+      "openai": {
+        "found": 18,
+        "live": 6,
+        "revoked": 12,
+        "unknown": 0
+      },
+      "replicate": {
+        "found": 2,
+        "live": 0,
+        "revoked": 0,
+        "unknown": 2
+      },
+      "huggingface": {
+        "found": 2,
+        "live": 0,
+        "revoked": 2,
+        "unknown": 0
+      },
+      "deepseek": {
+        "found": 2,
+        "live": 0,
+        "revoked": 0,
+        "unknown": 2
+      }
+    },
+    "outcomes": [
+      {
+        "provider": "deepseek",
+        "fingerprint": "b8b14a4818f6475d",
+        "state": "unknown",
+        "http_status": null,
+        "note": "No non-revocable introspection endpoint available for this provider; abstaining.",
+        "checked_at": "2026-08-15"
+      },
+      {
+        "provider": "deepseek",
+        "fingerprint": "c7ab37d566101f73",
+        "state": "unknown",
+        "http_status": null,
+        "note": "No non-revocable introspection endpoint available for this provider; abstaining.",
+        "checked_at": "2026-08-15"
+      },
+      {
+        "provider": "huggingface",
+        "fingerprint": "710a6c03e6b36080",
+        "state": "revoked",
+        "http_status": 401,
+        "note": "HTTP 401 from introspection.",
+        "checked_at": "2026-08-15"
+      },
+      {
+        "provider": "huggingface",
+        "fingerprint": "a3b8e59d5d304264",
+        "state": "revoked",
+        "http_status": 401,
+        "note": "HTTP 401 from introspection.",
+        "checked_at": "2026-08-15"
+      },
+      {
+        "provider": "openai",
+        "fingerprint": "4dbcd30309176ce6",
+        "state": "live",
+        "http_status": 200,
+        "note": "Confirmed via introspection endpoint.",
+        "checked_at": "2026-08-15"
+      },
+      {
+        "provider": "openai",
+        "fingerprint": "5f8fb1d2ed89a111",
+        "state": "live",
+        "http_status": 200,
+        "note": "Confirmed via introspection endpoint.",
+        "checked_at": "2026-08-15"
+      },
+      {
+        "provider": "openai",
+        "fingerprint": "6ceab1398bf1af5a",
+        "state": "live",
+        "http_status": 200,
+        "note": "Confirmed via introspection endpoint.",
+        "checked_at": "2026-08-15"
+      },
+      {
+        "provider": "openai",
+        "fingerprint": "929a77e6f716ff47",
+        "state": "live",
+        "http_status": 200,
+        "note": "Confirmed via introspection endpoint.",
+        "checked_at": "2026-08-15"
+      },
+      {
+        "provider": "openai",
+        "fingerprint": "c670dde4b5c3ecb4",
+        "state": "live",
+        "http_status": 200,
+        "note": "Confirmed via introspection endpoint.",
+        "checked_at": "2026-08-15"
+      },
+      {
+        "provider": "openai",
+        "fingerprint": "ef91e88eb71842f3",
+        "state": "live",
+        "http_status": 200,
+        "note": "Confirmed via introspection endpoint.",
+        "checked_at": "2026-08-15"
+      },
+      {
+        "provider": "openai",
+        "fingerprint": "2ee57d24ec72fbb1",
+        "state": "revoked",
+        "http_status": 401,
+        "note": "HTTP 401 from introspection.",
+        "checked_at": "2026-08-15"
+      },
+      {
+        "provider": "openai",
+        "fingerprint": "30e48aa35d13e149",
+        "state": "revoked",
+        "http_status": 401,
+        "note": "HTTP 401 from introspection.",
+        "checked_at": "2026-08-15"
+      },
+      {
+        "provider": "openai",
+        "fingerprint": "390dfe9a38ff4c96",
+        "state": "revoked",
+        "http_status": 401,
+        "note": "HTTP 401 from introspection.",
+        "checked_at": "2026-08-15"
+      },
+      {
+        "provider": "openai",
+        "fingerprint": "42fb638784d37df6",
+        "state": "revoked",
+        "http_status": 401,
+        "note": "HTTP 401 from introspection.",
+        "checked_at": "2026-08-15"
+      },
+      {
+        "provider": "openai",
+        "fingerprint": "5210489d2f976345",
+        "state": "revoked",
+        "http_status": 401,
+        "note": "HTTP 401 from introspection.",
+        "checked_at": "2026-08-15"
+      },
+      {
+        "provider": "openai",
+        "fingerprint": "522a2f9064d0046d",
+        "state": "revoked",
+        "http_status": 401,
+        "note": "HTTP 401 from introspection.",
+        "checked_at": "2026-08-15"
+      },
+      {
+        "provider": "openai",
+        "fingerprint": "aa85062c3912a60c",
+        "state": "revoked",
+        "http_status": 401,
+        "note": "HTTP 401 from introspection.",
+        "checked_at": "2026-08-15"
+      },
+      {
+        "provider": "openai",
+        "fingerprint": "adb1bdc38cd1261d",
+        "state": "revoked",
+        "http_status": 401,
+        "note": "HTTP 401 from introspection.",
+        "checked_at": "2026-08-15"
+      },
+      {
+        "provider": "openai",
+        "fingerprint": "cafd8ae4868ac95e",
+        "state": "revoked",
+        "http_status": 401,
+        "note": "HTTP 401 from introspection.",
+        "checked_at": "2026-08-15"
+      },
+      {
+        "provider": "openai",
+        "fingerprint": "e665171d81d08035",
+        "state": "revoked",
+        "http_status": 401,
+        "note": "HTTP 401 from introspection.",
+        "checked_at": "2026-08-15"
+      },
+      {
+        "provider": "openai",
+        "fingerprint": "ed42ad85a2630850",
+        "state": "revoked",
+        "http_status": 401,
+        "note": "HTTP 401 from introspection.",
+        "checked_at": "2026-08-15"
+      },
+      {
+        "provider": "openai",
+        "fingerprint": "f4827e0b37ee8026",
+        "state": "revoked",
+        "http_status": 401,
+        "note": "HTTP 401 from introspection.",
+        "checked_at": "2026-08-15"
+      },
+      {
+        "provider": "replicate",
+        "fingerprint": "a6f545372543ea1b",
+        "state": "unknown",
+        "http_status": null,
+        "note": "No non-revocable introspection endpoint available for this provider; abstaining.",
+        "checked_at": "2026-08-15"
+      },
+      {
+        "provider": "replicate",
+        "fingerprint": "c4543d3620300cee",
+        "state": "unknown",
+        "http_status": null,
+        "note": "No non-revocable introspection endpoint available for this provider; abstaining.",
+        "checked_at": "2026-08-15"
+      }
+    ],
+    "to_disclose_count": 10,
+    "to_disclose": [
+      {
+        "provider": "deepseek",
+        "fingerprint": "b8b14a4818f6475d",
+        "state": "unknown"
+      },
+      {
+        "provider": "deepseek",
+        "fingerprint": "c7ab37d566101f73",
+        "state": "unknown"
+      },
+      {
+        "provider": "openai",
+        "fingerprint": "4dbcd30309176ce6",
+        "state": "live"
+      },
+      {
+        "provider": "openai",
+        "fingerprint": "5f8fb1d2ed89a111",
+        "state": "live"
+      },
+      {
+        "provider": "openai",
+        "fingerprint": "6ceab1398bf1af5a",
+        "state": "live"
+      },
+      {
+        "provider": "openai",
+        "fingerprint": "929a77e6f716ff47",
+        "state": "live"
+      },
+      {
+        "provider": "openai",
+        "fingerprint": "c670dde4b5c3ecb4",
+        "state": "live"
+      },
+      {
+        "provider": "openai",
+        "fingerprint": "ef91e88eb71842f3",
+        "state": "live"
+      },
+      {
+        "provider": "replicate",
+        "fingerprint": "a6f545372543ea1b",
+        "state": "unknown"
+      },
+      {
+        "provider": "replicate",
+        "fingerprint": "c4543d3620300cee",
+        "state": "unknown"
+      }
+    ]
+  },
+  "liveness_applications": {
+    "with_live_credential": 5,
+    "with_disclosable_credential": 8
+  }
+}

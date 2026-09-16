@@ -1,0 +1,11 @@
+{
+  "n": 111,
+  "unavailable": 0,
+  "counts": {
+    "React Native": 22,
+    "Native (Kotlin/Java)": 71,
+    "Cordova / Capacitor": 4,
+    "Flutter": 8,
+    "Unity": 6
+  }
+}

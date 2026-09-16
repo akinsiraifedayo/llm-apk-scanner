@@ -1,0 +1,1412 @@
+[
+  {
+    "llm_integrated": true,
+    "n_reported_in_run": 1,
+    "n_rescored": 1,
+    "has_system_prompt": false,
+    "has_preset": false,
+    "has_unclassified": true,
+    "any_confidentiality_marker": false,
+    "any_role_binding": false,
+    "any_white_labelling": false,
+    "strings": [
+      {
+        "container": "asset",
+        "class": "unclassified",
+        "register_first_person": false,
+        "register_second_person": false,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      }
+    ]
+  },
+  {
+    "llm_integrated": true,
+    "n_reported_in_run": 1,
+    "n_rescored": 1,
+    "has_system_prompt": false,
+    "has_preset": false,
+    "has_unclassified": true,
+    "any_confidentiality_marker": false,
+    "any_role_binding": false,
+    "any_white_labelling": false,
+    "strings": [
+      {
+        "container": "asset",
+        "class": "unclassified",
+        "register_first_person": false,
+        "register_second_person": false,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      }
+    ]
+  },
+  {
+    "llm_integrated": true,
+    "n_reported_in_run": 1,
+    "n_rescored": 1,
+    "has_system_prompt": false,
+    "has_preset": false,
+    "has_unclassified": true,
+    "any_confidentiality_marker": false,
+    "any_role_binding": false,
+    "any_white_labelling": false,
+    "strings": [
+      {
+        "container": "asset",
+        "class": "unclassified",
+        "register_first_person": false,
+        "register_second_person": false,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      }
+    ]
+  },
+  {
+    "llm_integrated": true,
+    "n_reported_in_run": 1,
+    "n_rescored": 1,
+    "has_system_prompt": false,
+    "has_preset": false,
+    "has_unclassified": true,
+    "any_confidentiality_marker": false,
+    "any_role_binding": false,
+    "any_white_labelling": false,
+    "strings": [
+      {
+        "container": "asset",
+        "class": "unclassified",
+        "register_first_person": false,
+        "register_second_person": false,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      }
+    ]
+  },
+  {
+    "llm_integrated": true,
+    "n_reported_in_run": 1,
+    "n_rescored": 1,
+    "has_system_prompt": false,
+    "has_preset": false,
+    "has_unclassified": true,
+    "any_confidentiality_marker": false,
+    "any_role_binding": false,
+    "any_white_labelling": false,
+    "strings": [
+      {
+        "container": "resource_table",
+        "class": "unclassified",
+        "register_first_person": false,
+        "register_second_person": false,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      }
+    ]
+  },
+  {
+    "llm_integrated": true,
+    "n_reported_in_run": 1,
+    "n_rescored": 6,
+    "has_system_prompt": false,
+    "has_preset": false,
+    "has_unclassified": true,
+    "any_confidentiality_marker": false,
+    "any_role_binding": false,
+    "any_white_labelling": false,
+    "strings": [
+      {
+        "container": "native_library",
+        "class": "unclassified",
+        "register_first_person": false,
+        "register_second_person": false,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "native_library",
+        "class": "unclassified",
+        "register_first_person": false,
+        "register_second_person": false,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "native_library",
+        "class": "unclassified",
+        "register_first_person": false,
+        "register_second_person": false,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "native_library",
+        "class": "unclassified",
+        "register_first_person": false,
+        "register_second_person": false,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "native_library",
+        "class": "unclassified",
+        "register_first_person": false,
+        "register_second_person": false,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "native_library",
+        "class": "unclassified",
+        "register_first_person": false,
+        "register_second_person": false,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      }
+    ]
+  },
+  {
+    "llm_integrated": true,
+    "n_reported_in_run": 2,
+    "n_rescored": 2,
+    "has_system_prompt": false,
+    "has_preset": false,
+    "has_unclassified": true,
+    "any_confidentiality_marker": false,
+    "any_role_binding": false,
+    "any_white_labelling": false,
+    "strings": [
+      {
+        "container": "resource_table",
+        "class": "unclassified",
+        "register_first_person": false,
+        "register_second_person": false,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "resource_table",
+        "class": "unclassified",
+        "register_first_person": false,
+        "register_second_person": false,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      }
+    ]
+  },
+  {
+    "llm_integrated": true,
+    "n_reported_in_run": 1,
+    "n_rescored": 2,
+    "has_system_prompt": true,
+    "has_preset": false,
+    "has_unclassified": false,
+    "any_confidentiality_marker": false,
+    "any_role_binding": false,
+    "any_white_labelling": false,
+    "strings": [
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      }
+    ]
+  },
+  {
+    "llm_integrated": true,
+    "n_reported_in_run": 1,
+    "n_rescored": 2,
+    "has_system_prompt": true,
+    "has_preset": false,
+    "has_unclassified": false,
+    "any_confidentiality_marker": false,
+    "any_role_binding": false,
+    "any_white_labelling": false,
+    "strings": [
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      }
+    ]
+  },
+  {
+    "llm_integrated": true,
+    "n_reported_in_run": 1,
+    "n_rescored": 2,
+    "has_system_prompt": true,
+    "has_preset": false,
+    "has_unclassified": false,
+    "any_confidentiality_marker": false,
+    "any_role_binding": false,
+    "any_white_labelling": false,
+    "strings": [
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      }
+    ]
+  },
+  {
+    "llm_integrated": true,
+    "n_reported_in_run": 1,
+    "n_rescored": 2,
+    "has_system_prompt": true,
+    "has_preset": false,
+    "has_unclassified": false,
+    "any_confidentiality_marker": false,
+    "any_role_binding": false,
+    "any_white_labelling": false,
+    "strings": [
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      }
+    ]
+  },
+  {
+    "llm_integrated": true,
+    "n_reported_in_run": 10,
+    "n_rescored": 14,
+    "has_system_prompt": true,
+    "has_preset": false,
+    "has_unclassified": false,
+    "any_confidentiality_marker": false,
+    "any_role_binding": false,
+    "any_white_labelling": false,
+    "strings": [
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      }
+    ]
+  },
+  {
+    "llm_integrated": true,
+    "n_reported_in_run": 2,
+    "n_rescored": 2,
+    "has_system_prompt": true,
+    "has_preset": false,
+    "has_unclassified": false,
+    "any_confidentiality_marker": false,
+    "any_role_binding": false,
+    "any_white_labelling": false,
+    "strings": [
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      }
+    ]
+  },
+  {
+    "llm_integrated": true,
+    "n_reported_in_run": 2,
+    "n_rescored": 6,
+    "has_system_prompt": true,
+    "has_preset": false,
+    "has_unclassified": false,
+    "any_confidentiality_marker": false,
+    "any_role_binding": false,
+    "any_white_labelling": false,
+    "strings": [
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      }
+    ]
+  },
+  {
+    "llm_integrated": true,
+    "n_reported_in_run": 3,
+    "n_rescored": 6,
+    "has_system_prompt": true,
+    "has_preset": false,
+    "has_unclassified": false,
+    "any_confidentiality_marker": false,
+    "any_role_binding": false,
+    "any_white_labelling": false,
+    "strings": [
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      }
+    ]
+  },
+  {
+    "llm_integrated": true,
+    "n_reported_in_run": 3,
+    "n_rescored": 6,
+    "has_system_prompt": true,
+    "has_preset": false,
+    "has_unclassified": false,
+    "any_confidentiality_marker": false,
+    "any_role_binding": false,
+    "any_white_labelling": false,
+    "strings": [
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      }
+    ]
+  },
+  {
+    "llm_integrated": true,
+    "n_reported_in_run": 4,
+    "n_rescored": 4,
+    "has_system_prompt": true,
+    "has_preset": false,
+    "has_unclassified": false,
+    "any_confidentiality_marker": false,
+    "any_role_binding": false,
+    "any_white_labelling": false,
+    "strings": [
+      {
+        "container": "resource_table",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "resource_table",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "resource_table",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "resource_table",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      }
+    ]
+  },
+  {
+    "llm_integrated": true,
+    "n_reported_in_run": 6,
+    "n_rescored": 11,
+    "has_system_prompt": true,
+    "has_preset": false,
+    "has_unclassified": false,
+    "any_confidentiality_marker": false,
+    "any_role_binding": false,
+    "any_white_labelling": false,
+    "strings": [
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      }
+    ]
+  },
+  {
+    "llm_integrated": true,
+    "n_reported_in_run": 3,
+    "n_rescored": 4,
+    "has_system_prompt": true,
+    "has_preset": false,
+    "has_unclassified": true,
+    "any_confidentiality_marker": false,
+    "any_role_binding": false,
+    "any_white_labelling": false,
+    "strings": [
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "unclassified",
+        "register_first_person": false,
+        "register_second_person": false,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      }
+    ]
+  },
+  {
+    "llm_integrated": true,
+    "n_reported_in_run": 6,
+    "n_rescored": 7,
+    "has_system_prompt": true,
+    "has_preset": false,
+    "has_unclassified": true,
+    "any_confidentiality_marker": false,
+    "any_role_binding": false,
+    "any_white_labelling": false,
+    "strings": [
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "native_library",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "native_library",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "unclassified",
+        "register_first_person": false,
+        "register_second_person": false,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "unclassified",
+        "register_first_person": false,
+        "register_second_person": false,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "unclassified",
+        "register_first_person": false,
+        "register_second_person": false,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      }
+    ]
+  },
+  {
+    "llm_integrated": true,
+    "n_reported_in_run": 7,
+    "n_rescored": 7,
+    "has_system_prompt": true,
+    "has_preset": false,
+    "has_unclassified": true,
+    "any_confidentiality_marker": false,
+    "any_role_binding": false,
+    "any_white_labelling": false,
+    "strings": [
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "unclassified",
+        "register_first_person": false,
+        "register_second_person": false,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      }
+    ]
+  },
+  {
+    "llm_integrated": true,
+    "n_reported_in_run": 8,
+    "n_rescored": 8,
+    "has_system_prompt": true,
+    "has_preset": false,
+    "has_unclassified": true,
+    "any_confidentiality_marker": false,
+    "any_role_binding": false,
+    "any_white_labelling": false,
+    "strings": [
+      {
+        "container": "resource_table",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "resource_table",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "resource_table",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "resource_table",
+        "class": "unclassified",
+        "register_first_person": false,
+        "register_second_person": false,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "resource_table",
+        "class": "unclassified",
+        "register_first_person": false,
+        "register_second_person": false,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "resource_table",
+        "class": "unclassified",
+        "register_first_person": false,
+        "register_second_person": false,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "resource_table",
+        "class": "unclassified",
+        "register_first_person": false,
+        "register_second_person": false,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "resource_table",
+        "class": "unclassified",
+        "register_first_person": false,
+        "register_second_person": false,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      }
+    ]
+  },
+  {
+    "llm_integrated": true,
+    "n_reported_in_run": 8,
+    "n_rescored": 8,
+    "has_system_prompt": false,
+    "has_preset": true,
+    "has_unclassified": false,
+    "any_confidentiality_marker": false,
+    "any_role_binding": false,
+    "any_white_labelling": false,
+    "strings": [
+      {
+        "container": "resource_table",
+        "class": "preset",
+        "register_first_person": true,
+        "register_second_person": false,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "resource_table",
+        "class": "preset",
+        "register_first_person": true,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "resource_table",
+        "class": "preset",
+        "register_first_person": true,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "resource_table",
+        "class": "preset",
+        "register_first_person": true,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "resource_table",
+        "class": "preset",
+        "register_first_person": true,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "resource_table",
+        "class": "preset",
+        "register_first_person": true,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "resource_table",
+        "class": "preset",
+        "register_first_person": true,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "resource_table",
+        "class": "preset",
+        "register_first_person": true,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      }
+    ]
+  },
+  {
+    "llm_integrated": true,
+    "n_reported_in_run": 16,
+    "n_rescored": 18,
+    "has_system_prompt": true,
+    "has_preset": true,
+    "has_unclassified": false,
+    "any_confidentiality_marker": false,
+    "any_role_binding": false,
+    "any_white_labelling": false,
+    "strings": [
+      {
+        "container": "dex",
+        "class": "preset",
+        "register_first_person": true,
+        "register_second_person": false,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "preset",
+        "register_first_person": true,
+        "register_second_person": false,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "preset",
+        "register_first_person": true,
+        "register_second_person": false,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "preset",
+        "register_first_person": true,
+        "register_second_person": false,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "dex",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "resource_table",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "resource_table",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "resource_table",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "resource_table",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "resource_table",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "resource_table",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "resource_table",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "resource_table",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "resource_table",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "resource_table",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "resource_table",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "resource_table",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      },
+      {
+        "container": "resource_table",
+        "class": "system_prompt",
+        "register_first_person": false,
+        "register_second_person": true,
+        "confidentiality_marker": false,
+        "role_binding": false,
+        "white_labelling": false
+      }
+    ]
+  }
+]

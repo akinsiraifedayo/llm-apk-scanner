@@ -1,0 +1,70 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "llm-apk-scanner"
+version = "0.1.0"
+description = "Static analysis scanner for LLM-integrated Android applications"
+readme = "README.md"
+license = { text = "Apache-2.0" }
+requires-python = ">=3.10"
+authors = [
+    { name = "Ifedayo Olympicson Akinsira-Olumide" }
+]
+keywords = [
+    "android",
+    "security",
+    "llm",
+    "agentic-ai",
+    "static-analysis",
+    "mobile-security",
+]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: Apache Software License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Security",
+]
+dependencies = [
+    "androguard>=4.1.0",
+    "click>=8.1.0",
+    "rich>=13.7.0",
+    "pyyaml>=6.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.4.0",
+    "pytest-cov>=4.1.0",
+    "ruff>=0.4.0",
+    "mypy>=1.10.0",
+]
+
+[project.scripts]
+llm-apk-scanner = "llm_apk_scanner.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["llm_apk_scanner*"]
+exclude = ["tests*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+addopts = "-q --strict-markers"
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "N", "B", "UP"]
+
+[tool.mypy]
+python_version = "3.10"
+strict = true
+ignore_missing_imports = true
